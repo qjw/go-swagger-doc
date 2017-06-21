@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "bvHZOqZm2Gl0XkMh4oOB8iZ7geQ=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "d5b353c5d5a560322e6d96121c814115562501f7",
+			"revisionTime": "2017-04-28T10:59:23Z"
+		},
+		{
+			"checksumSHA1": "UsILDoIB2S7ra+w2fMdb85mX3HM=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "d5b353c5d5a560322e6d96121c814115562501f7",
+			"revisionTime": "2017-04-28T10:59:23Z"
+		},
+		{
+			"checksumSHA1": "PHv9FNb7YavJWtAHcY6ZgXmkmHs=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "d5b353c5d5a560322e6d96121c814115562501f7",
+			"revisionTime": "2017-04-28T10:59:23Z"
+		},
+		{
+			"checksumSHA1": "pI0js2qnSKXOzUq9AoA5CJDJNRw=",
+			"path": "github.com/go-playground/locales",
+			"revision": "1e5f1161c6416a5ff48840eb8724a394e48cc534",
+			"revisionTime": "2017-03-27T19:14:50Z"
+		},
+		{
+			"checksumSHA1": "YWIa2z/i81ttb1Db9fm95XnIgwI=",
+			"path": "github.com/go-playground/locales/currency",
+			"revision": "1e5f1161c6416a5ff48840eb8724a394e48cc534",
+			"revisionTime": "2017-03-27T19:14:50Z"
+		},
+		{
+			"checksumSHA1": "7QcjNTtW0Rc/5BPw1MPaQ6YNjso=",
+			"path": "github.com/go-playground/universal-translator",
+			"revision": "71201497bace774495daed26a3874fd339e0b538",
+			"revisionTime": "2017-03-27T19:17:03Z"
+		},
+		{
+			"checksumSHA1": "qlPUeFabwF4RKAOF1H+yBFU1Veg=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "1fb8fd32a09087bcd727225167edd31e1b9ceb24",
+			"revisionTime": "2017-06-20T23:04:58Z"
+		},
+		{
+			"checksumSHA1": "b0T0Hzd+zYk+OCDTFMps+jwa/nY=",
+			"path": "github.com/manucorporat/sse",
+			"revision": "ee05b128a739a0fb76c7ebd3ae4810c1de808d6d",
+			"revisionTime": "2016-01-26T18:01:36Z"
+		},
+		{
+			"checksumSHA1": "U6lX43KDDlNOn+Z0Yyww+ZzHfFo=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "fc9e8d8ef48496124e79ae0df75490096eccf6fe",
+			"revisionTime": "2017-03-22T23:44:13Z"
+		},
+		{
+			"checksumSHA1": "N7+ga51CFGIyfqjluVIFQSlzH44=",
+			"path": "github.com/qjw/go-gin-binding",
+			"revision": "0e391806639d1cafdadc6a6fe3729c65299c9b08",
+			"revisionTime": "2017-06-21T07:49:04Z"
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"path": "golang.org/x/net/context",
+			"revision": "fe686d45ea04bc1bd4eff6a52865ce8757320325",
+			"revisionTime": "2017-06-18T05:18:41Z"
+		},
+		{
+			"checksumSHA1": "Tkb1hBdBWeO7SGjixS2Hm48F6+s=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "fb4cac33e3196ff7f507ab9b2d2a44b0142f5b5a",
+			"revisionTime": "2017-06-14T06:48:48Z"
+		},
+		{
+			"checksumSHA1": "39V1idWER42Lmcmg2Uy40wMzOlo=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f57d2222ad794d0dffb07e664ea05e2ee07d60c",
+			"revisionTime": "2016-07-18T13:41:25Z"
+		},
+		{
+			"checksumSHA1": "bghmjNaktOtwAJkf3Vql4cofS3M=",
+			"path": "gopkg.in/go-playground/validator.v9",
+			"revision": "fb68f39656d7ebf8aa339ad4917aa0c260ecc237",
+			"revisionTime": "2017-06-12T05:26:53Z"
+		},
+		{
+			"checksumSHA1": "fALlQNY1fM99NesfLJ50KguWsio=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "cd8b52f8269e0feb286dfeef29f8fe4d5b397e0b",
+			"revisionTime": "2017-04-07T17:21:22Z"
+		}
+	],
+	"rootPath": "github.com/qjw/go-swagger-doc"
+}
